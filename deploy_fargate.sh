@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # 공통 설정
-PREFIX="test-cbsim-aware"
+PREFIX=
 REGION="ap-northeast-2"
-ACCOUNT_ID=107802304622
+ACCOUNT_ID=
 
 # 리소스 이름
 APP_NAME="${PREFIX}-app"

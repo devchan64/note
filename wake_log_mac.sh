@@ -9,8 +9,6 @@ for i in {0..6}; do
     | grep "$TARGET_DATE" \
     | grep -A 10 "DarkWake to FullWake from Deep Idle" \
     | grep -B 10 "Display is turned on" \
-    | grep "DarkWake to FullWake from Deep Idle" \
-    | grep "UserActivity Assertion" \
     | head -n 1)
 
   if [ -n "$EVENT_LINE" ]; then

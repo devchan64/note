@@ -1,0 +1,28 @@
+tell application "Terminal"
+	do shell script "OUTPUT=~/Desktop/sysinfo_report.txt; 
+echo '========== macOS 시스템 정보 ==========' > \"$OUTPUT\"; 
+echo '호스트 이름: ' $(scutil --get ComputerName) >> \"$OUTPUT\"; 
+echo '모델: ' $(sysctl -n hw.model) >> \"$OUTPUT\"; 
+echo '시리얼 넘버: ' $(system_profiler SPHardwareDataType | grep 'Serial Number' | awk '{print $NF}') >> \"$OUTPUT\"; 
+echo 'macOS 버전: ' $(sw_vers -productVersion) >> \"$OUTPUT\"; 
+echo '커널 버전: ' $(uname -a) >> \"$OUTPUT\"; 
+echo 'Uptime: ' $(uptime) >> \"$OUTPUT\"; 
+echo >> \"$OUTPUT\"; 
+echo '========== CPU 정보 ==========' >> \"$OUTPUT\"; 
+sysctl -n machdep.cpu.brand_string >> \"$OUTPUT\"; 
+echo '코어 수: ' $(sysctl -n hw.physicalcpu) >> \"$OUTPUT\"; 
+echo '스레드 수: ' $(sysctl -n hw.logicalcpu) >> \"$OUTPUT\"; 
+echo >> \"$OUTPUT\"; 
+echo '========== 메모리 정보 ==========' >> \"$OUTPUT\"; 
+mem=$(sysctl -n hw.memsize); echo \"총 메모리: $((mem / 1024 / 1024 / 1024)) GB\" >> \"$OUTPUT\"; 
+echo >> \"$OUTPUT\"; 
+echo '========== 디스크 정보 ==========' >> \"$OUTPUT\"; 
+df -h / >> \"$OUTPUT\"; 
+echo >> \"$OUTPUT\"; 
+echo '========== 로그인 사용자 ==========' >> \"$OUTPUT\"; 
+users >> \"$OUTPUT\"; 
+echo >> \"$OUTPUT\"; 
+echo '========== 현재 로그인한 사용자 정보 ==========' >> \"$OUTPUT\"; 
+who >> \"$OUTPUT\"; 
+exit 0"
+end tell

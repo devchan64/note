@@ -10,6 +10,10 @@ for i in {0..6}; do
     | grep -A 10 "DarkWake to FullWake from Deep Idle" \
     | grep -B 10 "Display is turned on" \
     | head -n 1)
+  EVENT_LINE+=$(pmset -g log \
+    | grep "$TARGET_DATE" \
+    | grep -E "powerd process is started" \
+    | head -n 1)
 
   if [ -n "$EVENT_LINE" ]; then
     TIME=$(echo "$EVENT_LINE" | awk '{print $1, $2}')

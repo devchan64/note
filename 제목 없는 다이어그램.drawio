@@ -201,6 +201,15 @@
             <mxPoint x="630" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LkE86forte0r7mT35dKI-5" value="고객문의 대응" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LkE86forte0r7mT35dKI-6" value="고객 비지니스 개선" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LkE86forte0r7mT35dKI-7" value="내부 업무 효율 개선" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -192,7 +192,7 @@
         <mxCell id="SJdh64e2YzuqiiGv0VRu-2" value="Customer Experience Platform" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="50" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SJdh64e2YzuqiiGv0VRu-3" value="ex. UI/UX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="SJdh64e2YzuqiiGv0VRu-3" value="ex. UI/UX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="260" y="130" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SJdh64e2YzuqiiGv0VRu-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SJdh64e2YzuqiiGv0VRu-2" target="SJdh64e2YzuqiiGv0VRu-1" edge="1">

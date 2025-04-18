@@ -99,7 +99,7 @@
         <mxCell id="M86IooEqDLAafIwks_xU-32" value="? New" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="860" y="410" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M86IooEqDLAafIwks_xU-33" value="CX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" parent="1" vertex="1">
+        <mxCell id="M86IooEqDLAafIwks_xU-33" value="CX (+ ServiceOps)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="190" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-35" value="DX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

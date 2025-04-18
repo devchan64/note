@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-3" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="950" as="sourcePoint" />
+            <mxPoint x="400" y="940" as="sourcePoint" />
             <mxPoint x="400" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -142,10 +142,7 @@
           <mxGeometry x="20" y="970" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-54" value="SR(FE/BE)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="400" y="970" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="M86IooEqDLAafIwks_xU-55" value="WebView SR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="220" y="970" width="180" height="30" as="geometry" />
+          <mxGeometry x="220" y="970" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-56" value="Android ?(CB)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="220" y="1010" width="160" height="30" as="geometry" />

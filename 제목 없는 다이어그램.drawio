@@ -232,7 +232,7 @@
           <mxGeometry x="720" y="30" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A3AX5KbJe2SXal75tReD-6" value="CX Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="30" width="270" height="20" as="geometry" />
+          <mxGeometry x="420" y="30" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

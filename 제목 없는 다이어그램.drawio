@@ -57,9 +57,6 @@
         <mxCell id="M86IooEqDLAafIwks_xU-14" value="React" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="670" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M86IooEqDLAafIwks_xU-15" value="React" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="670" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-16" value="Android Native Plugin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="770" width="140" height="30" as="geometry" />
         </mxCell>
@@ -129,8 +126,8 @@
         <mxCell id="M86IooEqDLAafIwks_xU-46" value="자동화 / 운영시스템(ex.erp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="330" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M86IooEqDLAafIwks_xU-48" value="serviceOps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="330" width="60" height="30" as="geometry" />
+        <mxCell id="M86IooEqDLAafIwks_xU-48" value="serviceOps(ex. 카카오택시)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="330" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-50" value="D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry y="10" width="360" height="30" as="geometry" />

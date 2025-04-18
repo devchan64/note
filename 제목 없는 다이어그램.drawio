@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-2" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="940" as="sourcePoint" />
+            <mxPoint x="200" y="1040" as="sourcePoint" />
             <mxPoint x="200" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -83,7 +83,7 @@
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-27" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="940" as="sourcePoint" />
+            <mxPoint x="800" y="1040" as="sourcePoint" />
             <mxPoint x="800" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -246,13 +246,13 @@
         <mxCell id="A3AX5KbJe2SXal75tReD-10" value="Device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="30" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A3AX5KbJe2SXal75tReD-11" value="IT Infra(Ops)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3AX5KbJe2SXal75tReD-11" value="IT Infra(Ops)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="620" y="60" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A3AX5KbJe2SXal75tReD-12" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3AX5KbJe2SXal75tReD-12" value="Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="220" y="60" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A3AX5KbJe2SXal75tReD-13" value="Device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3AX5KbJe2SXal75tReD-13" value="Device" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry y="60" width="180" height="20" as="geometry" />
         </mxCell>
       </root>

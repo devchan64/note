@@ -5,23 +5,23 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M86IooEqDLAafIwks_xU-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="580" width="160" height="170" as="geometry" />
+          <mxGeometry x="220" y="680" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-2" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="800" as="sourcePoint" />
+            <mxPoint x="200" y="860" as="sourcePoint" />
             <mxPoint x="200" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-3" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="800" as="sourcePoint" />
+            <mxPoint x="400" y="860" as="sourcePoint" />
             <mxPoint x="400" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-4" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="800" as="sourcePoint" />
+            <mxPoint x="600" y="860" as="sourcePoint" />
             <mxPoint x="600" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-6" value="Embedded" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-8" value="고객센터" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="510" width="60" height="30" as="geometry" />
@@ -44,15 +44,15 @@
           <mxGeometry x="630" y="550" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-12" value="WebView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="510" width="140" height="30" as="geometry" />
+          <mxGeometry x="260" y="590" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M86IooEqDLAafIwks_xU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="M86IooEqDLAafIwks_xU-20">
+        <mxCell id="M86IooEqDLAafIwks_xU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M86IooEqDLAafIwks_xU-12" target="M86IooEqDLAafIwks_xU-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="605" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-13" value="React / Ant design" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="550" width="140" height="30" as="geometry" />
+          <mxGeometry x="240" y="630" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-14" value="React" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="590" width="140" height="30" as="geometry" />
@@ -61,16 +61,16 @@
           <mxGeometry x="630" y="590" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-16" value="Android Native Plugin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="590" width="140" height="30" as="geometry" />
+          <mxGeometry x="230" y="690" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-17" value="Capacitor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="630" width="140" height="30" as="geometry" />
+          <mxGeometry x="230" y="730" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-18" value="Anroid OS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="670" width="140" height="30" as="geometry" />
+          <mxGeometry x="230" y="770" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-19" value="Linux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="710" width="140" height="30" as="geometry" />
+          <mxGeometry x="230" y="810" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-20" value="AWS API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="630" width="360" height="30" as="geometry" />
@@ -86,7 +86,7 @@
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-27" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="800" as="sourcePoint" />
+            <mxPoint x="800" y="860" as="sourcePoint" />
             <mxPoint x="800" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -112,13 +112,13 @@
           <mxGeometry x="70" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-38" value="UDP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-39" value="제어" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="590" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-40" value="FW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-44" value="SSO(AWS)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="420" width="760" height="30" as="geometry" />
@@ -142,22 +142,22 @@
           <mxGeometry x="400" y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-53" value="DJ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="20" y="810" width="160" height="30" as="geometry" />
+          <mxGeometry x="30" y="890" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-54" value="SR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="420" y="810" width="160" height="30" as="geometry" />
+          <mxGeometry x="420" y="890" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-55" value="WebView SR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220" y="810" width="160" height="30" as="geometry" />
+          <mxGeometry x="230" y="890" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-56" value="Android ?(CB)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220" y="850" width="160" height="30" as="geometry" />
+          <mxGeometry x="230" y="930" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-57" value="?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="620" y="810" width="160" height="30" as="geometry" />
+          <mxGeometry x="620" y="890" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-58" value="?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="820" y="810" width="160" height="30" as="geometry" />
+          <mxGeometry x="820" y="890" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M86IooEqDLAafIwks_xU-59" value="HelpDesk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="330" width="60" height="30" as="geometry" />

@@ -186,7 +186,7 @@
         <mxCell id="M86IooEqDLAafIwks_xU-68" value="구IT - 서비스디자인" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="420" y="410" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M86IooEqDLAafIwks_xU-69" value="Internal Tool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="M86IooEqDLAafIwks_xU-69" value="ex. Internal Tool" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="800" y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SJdh64e2YzuqiiGv0VRu-1" value="Internal Platform" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -195,7 +195,7 @@
         <mxCell id="SJdh64e2YzuqiiGv0VRu-2" value="Customer Experience Platform" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="90" width="380" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SJdh64e2YzuqiiGv0VRu-3" value="UI/UX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="SJdh64e2YzuqiiGv0VRu-3" value="ex. UI/UX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="200" y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SJdh64e2YzuqiiGv0VRu-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SJdh64e2YzuqiiGv0VRu-2" target="SJdh64e2YzuqiiGv0VRu-1" edge="1">

@@ -234,7 +234,7 @@
         <mxCell id="A3AX5KbJe2SXal75tReD-6" value="CX Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A3AX5KbJe2SXal75tReD-7" value="IT Support(Ops)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3AX5KbJe2SXal75tReD-7" value="IT Support Ops" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="30" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A3AX5KbJe2SXal75tReD-8" value="ServiceOps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -246,7 +246,7 @@
         <mxCell id="A3AX5KbJe2SXal75tReD-10" value="Device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="30" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A3AX5KbJe2SXal75tReD-11" value="IT Infra(Ops)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="A3AX5KbJe2SXal75tReD-11" value="IT Infra Ops" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="620" y="60" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A3AX5KbJe2SXal75tReD-12" value="Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
